@@ -1,13 +1,19 @@
-p{
+.quadro{
+    background-color: grey;
+    text-align: center;
+    align-items: center;
+    margin: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    /* opacity: 0.5; */
+}
+p, input{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
+    opacity: 1;
+    margin: 16px;
 }
 .login{
     display: block;
     margin-top: 12px;
-}
-.quadro{
-    background-color: aliceblue;
-    text-align: center;
-    align-items: center;
 }
