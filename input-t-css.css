@@ -1,0 +1,13 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.login{
+    display: block;
+    margin-top: 12px;
+}
+.quadro{
+    background-color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
